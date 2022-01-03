@@ -1,16 +1,16 @@
 
 <h1 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Hi%2C+It's+Farah!;Full-Stack+Developer;Tech+enthusiast;and+an+Open-Source+Supporter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Hi%2C+I'm+Shahriar!;Full-Stack+Web+Developer;Tech+enthusiast;and+an+Open-Source+Supporter)](https://git.io/typing-svg)
 </h1>
 
 <p align="center">
-  I am Farah AIT ELAHMADI, graduated with a Bachelor's degree specialised in Web Programming and Technologies, and supporter of the open-source  movement philosophy.<br>
-  I am always doing that which i cannot do in order that i may learn how to do it,<br> and i believe in sharing knowledge.<br>
-  I think it's essential always to keep professional and surround yourself with good people,<br> work hard, and be nice to everyone.
+  Experienced Software Engineer with a passion for developing innovative programs. Skilled in conceptualizing, designing,
+developing, and deploying software containing logical and mathematical solutions to business problems. Dedicated to driving
+innovation with the ability to follow industry and technological trends.
 <p/>
 <p align="center">
-  <a href="mailto:farahaitelahmadi@gmail.com">
+  <a href="mailto:shahriariqbal079@gmail.com">
      <img  src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
   <a/>&nbsp;
   <a href="https://www.linkedin.com/in/farah-ahmadi">
