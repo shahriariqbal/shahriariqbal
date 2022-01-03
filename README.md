@@ -39,8 +39,8 @@ innovation with the ability to follow industry and technological trends.
 
 <h4 align="center">
   
-Credit: [Ray0Emma](https://github.com/Ray0Emma)
+Credit: [Shahriar Iqbal](https://github.com/shahriariqbal)
 
-Last Edited on: 29/10/2021.
+Last Edited on: 4/1/2022.
   
 </h4>
