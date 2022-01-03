@@ -29,13 +29,15 @@ innovation with the ability to follow industry and technological trends.
 
 
 
-<h1><h1/>
+<!-- <h1><h1/>
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b> My Skills</b></i></p>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b> My Skills</b></i></p> -->
+ <h1 align="center">My Skills</h1>
 
- ### 👉 Programming languages
+ <!-- ### 👉 Programming languages -->
+  <h2 align="center" style="color: white">👉 Programming languages</h3>
 
-<p align="left"> 
+<p align="center"> 
   
 
   <a href="https://dart.dev/">
