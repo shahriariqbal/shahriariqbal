@@ -55,8 +55,8 @@ innovation with the ability to follow industry and technological trends.
 
 </p>
 
- ### 👉 Frameworks
-<p align="left"> 
+   <h2 align="center" style="color: white">👉 Frameworks</h3>
+<p align="center"> 
 &emsp;
   <a href="https://flutter.dev/" target="_blank"> 
      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
@@ -79,8 +79,8 @@ innovation with the ability to follow industry and technological trends.
   </a>
 </p>
 
-### 👉 Databases & Cloud Hosting
-<p align="left">
+   <h2 align="center" style="color: white">👉 Databases & Cloud Hosting</h3>
+<p align="center"> 
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
@@ -91,9 +91,9 @@ innovation with the ability to follow industry and technological trends.
 <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
  </p>
 
- ### 👉 Software & Tools
  
-<p>
+   <h2 align="center" style="color: white">👉 Software & Tools</h3>
+<p align="center"> 
   &emsp;
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
   &emsp;
