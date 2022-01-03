@@ -35,7 +35,7 @@ innovation with the ability to follow industry and technological trends.
  <h1 align="center">My Skills</h1>
 
  <!-- ### 👉 Programming languages -->
-  <h2 align="center" style="color: white; border-bottom: 0px">👉 Programming languages</h3>
+  <h2 align="center" style="color: white; border-bottom: 0px !important;">👉 Programming languages</h3>
 
 <p align="center"> 
   
