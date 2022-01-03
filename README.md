@@ -26,7 +26,7 @@ innovation with the ability to follow industry and technological trends.
   
 <p/>
 
-<h1/>
+<h1><h1/>
 
 ## 🛠️ My Skills
 
