@@ -26,10 +26,8 @@ innovation with the ability to follow industry and technological trends.
   
 <p/>
 
-<!-- <h1><h1/> -->
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
- </p>
+
+<!-- ## 🛠️ My Skills
 
 ### 👉 Programming languages
 
@@ -117,7 +115,8 @@ innovation with the ability to follow industry and technological trends.
     &emsp; <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
     &emsp;
     
-</p>
+</p> -->
+
 <h1><h1/>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
