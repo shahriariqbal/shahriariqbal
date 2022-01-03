@@ -1,4 +1,8 @@
-
+<style>
+td, th, h1, h2, h3 {
+   border: none!important;
+}
+</style>
 <h1 align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Hi%2C+I'm+Shahriar!;Full-Stack+Web+Developer;Tech+enthusiast;and+an+Open-Source+Supporter)](https://git.io/typing-svg)
