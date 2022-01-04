@@ -1,145 +1,198 @@
-<h1 align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Hi%2C+I'm+Shahriar!;Full-Stack+Web+Developer;Tech+enthusiast;and+an+Open-Source+Supporter)](https://git.io/typing-svg)
-</h1>
-
-<p align="center">
-  Experienced Software Engineer with a passion for developing innovative programs. Skilled in conceptualizing, designing,
-developing, and deploying software containing logical and mathematical solutions to business problems. Dedicated to driving
-innovation with the ability to follow industry and technological trends.
-<p/>
-<p align="center">
-  <a href="https://shahriariqbal.github.io/shahriar-iqbal">
-     <img  src="https://img.shields.io/badge/website-C3897E?style=for-the-badge&logo=about.me&logoColor=white" alt="website">
-  <a/>&nbsp;
-  
-  <a href="https://www.linkedin.com/in/shahriar-iqbal">
-     <img  src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
-  <a/>&nbsp;
-  <a href="https://twitter.com/shahriar__iqbal">
-     <img  src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
-  <a/>&nbsp;
-  <a href="mailto:shahriariqbal079@gmail.com">
-     <img  src="https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email">
-  <a/>
-  
-<p/>
-
-
-
-
-<!-- <h1><h1/>
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b> My Skills</b></i></p> -->
- <h1 align="center">My Skills</h1>
-
- <!-- ### 👉 Programming languages -->
-  <h2 align="center" style="color: white; border: none!important;">👉 Programming languages</h3>
-
-<p align="center"> 
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&size=26&color=%2523DFC6B4&center=true&vCenter=true&lines=Hi,+I%27m+Shahriar!;Full-Stack+Web+Developer;Tech+Enthusiast;Open-Source+Supporter" align="center" style="width: 100%" />
+</div>  
   
 
-  <a href="https://dart.dev/">
-    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  </a>
-&emsp;
-<a href="https://python.org/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  </a>
-  &emsp;
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-
-
-</p>
-
-   <h2 align="center" style="color: white">👉 Frameworks</h3>
-<p align="center"> 
-&emsp;
-  <a href="https://flutter.dev/" target="_blank"> 
-     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-   </a>
-  &emsp; 
-  <a href="https://www.tensorflow.org/" target="_blank"> 
-   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://keras.io/" target="_blank"> 
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  </a>
-</p>
-
-   <h2 align="center" style="color: white">👉 Databases & Cloud Hosting</h3>
-<p align="center"> 
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
-<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
- </p>
-
- 
-   <h2 align="center" style="color: white">👉 Software & Tools</h3>
-<p align="center"> 
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-&emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
-    &emsp;
-     <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-    &emsp; <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
-    &emsp;
-    
-</p> 
-<br><br><br><br><br>
-
-
-
-<h1><h1/>
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriariqbal&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shahriariqbal&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=shahriariqbal&theme=gruvbox&hide_border=true&area=true)
-
-
-<h4 align="center">
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=shahriariqbal&&style=flat-square" align="center" />
+<img src="https://badges.pufler.dev/years/shahriariqbal" align="center" />
+<img src="https://badges.pufler.dev/repos/shahriariqbal" align="center" />
+<img src="https://badges.pufler.dev/gists/shahriariqbal" align="center" />
+<img src="https://badges.pufler.dev/commits/monthly/shahriariqbal" align="center" />
+</div>  
   
-Credit: [Shahriar Iqbal](https://github.com/shahriariqbal)
 
-Last Edited on: 4/1/2022.
+### <div align="center"> Experienced Software Engineer with a passion for developing innovative programs. Skilled in conceptualizing, designing, developing, and deploying software containing logical and mathematical solutions to business problems.</div>  
   
-</h4>
+
+<div align="center">🔭 I’m currently working on a MERN Stack project [No Chinta](https://nochinta.xyz/)</div>  
+  
+
+<div align="center">🌱 I’m currently learning AWS and Agile Methodology</div>  
+  
+
+<div align="center">❓ Ask me about anything related to MERN stack, laravel and related technologies</div>  
+  
+
+<div align="center">⚡ Fun fact: I use tabs over spaces</div>  
+  
+
+<br/>  
+
+
+## <div align="center">My Skill Set</div>
+
+
+### <div align="center">Programming Language</div>
+<div align="center">  
+<img style="margin: 10px" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="25" />  
+</div>  
+
+
+
+### <div align="center">Frontend Technology</div>
+<div align="center">  
+<img style="margin: 10px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angular" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" height="25" />  
+</div>  
+
+
+
+### <div align="center">Backend Technology</div>
+<div align="center">  
+<img style="margin: 10px" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" height="25" />  
+</div>  
+
+
+
+### <div align="center">Database</div>
+<div align="center">  
+<img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" height="25" />  
+</div>  
+
+
+
+### <div align="center">Other</div>
+<div align="center">  
+<img style="margin: 10px" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white" alt="gulp.js" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Git" height="25" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height="25" />  
+</div>  
+
+<br/>  
+
+
+## <div align="center">Connect with me</div>
+
+
+### <div align="center">Social Network</div>
+<div align="center">
+<a href="https://twitter.com/shahriar__iqbal" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/shahriar-iqbal" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+
+
+### <div align="center">Developer Profile</div>
+<div align="center">
+<a href="https://github.com/shahriariqbal" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/shahriar__iqbal" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://codepen.com/shahriar__iqbal" target="_blank">
+<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
+</a>
+<a href="https://stackoverflow.com/users/15060584" target="_blank">
+<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## <div align="center">Github Stats</div>
+
+<br/>  
+
+<img src="https://github-profile-trophy.vercel.app/?username=shahriariqbal&theme=nord&row=1&column=7" align="center" style="width: 100%" />  
+
+<br/>  
+
+<table>
+
+<!-- <tr>
+<td valign="top" colspan="2" width="100%">
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord&row=1&column=8" align="center" style="width: 100%" /></div>
+
+</td>
+</tr> -->
+
+<tr>
+<td valign="top" width="50%">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shahriariqbal&show_icons=true&count_private=true&hide_border=true&theme=prussian" align="center" style="width: 100%" /></div>
+
+</td><td valign="top" width="50%">
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=shahriariqbal&hide_border=true&layout=compact&theme=prussian -->
+<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=shahriariqbal&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" align="center" style="width: 100%" /></div>
+
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="2" width="100%">
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriariqbal&hide_border=true&layout=compact&theme=prussian" align="center" style="width: 50%" /></div>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" colspan="2" width="100%">
+
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=shahriariqbal&theme=github&hide_border=true&area=true" align="center" style="width: 100%" /></div>
+
+</td>
+</tr>
+</table>  
+
+<!-- <br/>  
+
+<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord" align="left" style="width: 100%" />  
+
+<br/>  --> 
+
+### <div align="center">Blog</div>   
+<div align="center"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=shahriar__iqbal&layout=wid" /></div>  
+
+### <div align="center">Listening....</div>   
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=8pjgks5g0dc7ul6uh80odq3zw&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false" /></div>  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">-- <a href="" target="_blank">Shahriar</a></div>
