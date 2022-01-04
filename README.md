@@ -9,7 +9,7 @@ developing, and deploying software containing logical and mathematical solutions
 innovation with the ability to follow industry and technological trends.
 <p/>
 <p align="center">
-  <a href="https://farahelahmadi.me">
+  <a href="https://shahriariqbal.github.io/shahriar-iqbal">
      <img  src="https://img.shields.io/badge/website-C3897E?style=for-the-badge&logo=about.me&logoColor=white" alt="website">
   <a/>&nbsp;
   
