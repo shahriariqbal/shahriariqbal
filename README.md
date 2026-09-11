@@ -21,7 +21,7 @@
 - 🌐 **Web** — React, Angular, TypeScript, Node.js (Express / Next), Python (Django / Flask), Laravel
 - 🥽 **XR/VR** — Unreal Engine 5 (Blueprint + C++), Unity (C#), Meta Quest 3, Magic Leap · digital twins & immersive experiences
 - ☁️ **Cloud & DevOps** — Docker, Kubernetes, AWS, Firebase, CI/CD
-- 🎓 MSc Information Processing Science (Software Engineering), University of Oulu · BSc CSE, MIST Dhaka
+- 🎓 MSc Software Engineering and Information Systems, University of Oulu · BSc CSE, MIST Dhaka
 - 📍 Helsinki, Finland — open to full-stack & XR roles
 - 🌱 Currently leveling up: AWS · Finnish (B1)
 - ⚡ Fun fact: tabs, not spaces
@@ -73,10 +73,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shahriariqbal&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=shahriariqbal&hide_border=true&theme=tokyonight&locale=en" alt="GitHub streak" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriariqbal&theme=tokyonight" alt="GitHub profile summary" />
   <br/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriariqbal&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://streak-stats.demolab.com?user=shahriariqbal&hide_border=true&theme=tokyonight&locale=en" alt="GitHub streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahriariqbal&theme=tokyonight" alt="Top languages by repo" />
+  <br/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahriariqbal&theme=tokyonight" alt="Contribution stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahriariqbal&theme=tokyonight" alt="Top languages by commit" />
 </div>
 
 ## 🔬 Research
