@@ -82,6 +82,14 @@
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahriariqbal&theme=tokyonight" alt="Top languages by commit" />
 </div>
 
+## 🌍 Open Source
+
+<div align="center">
+  <a href="https://github.com/conorbronsdon/avoid-ai-writing/pull/162"><img src="https://img.shields.io/badge/avoid--ai--writing-PR%20%23162%20merged-2ea44f?style=flat-square&logo=github&logoColor=white" alt="avoid-ai-writing PR #162 merged" /></a>
+  <a href="https://github.com/conorbronsdon/avoid-ai-writing/commit/e61e828"><img src="https://img.shields.io/badge/co--author-commit%20e61e828-0969da?style=flat-square&logo=github&logoColor=white" alt="Co-author on commit e61e828" /></a>
+  <a href="https://github.com/mdn/content/pull/45663"><img src="https://img.shields.io/badge/MDN%20Web%20Docs-PR%20%2345663%20in%20review-d29922?style=flat-square&logo=mdnwebdocs&logoColor=white" alt="MDN Web Docs PR #45663 in review" /></a>
+</div>
+
 ## 🔬 Research
 
 - **Persuasive system design for VR meditation** — BCSS 2026 · [CEUR Vol-4197](https://ceur-ws.org/Vol-4197/Paper4.pdf)
