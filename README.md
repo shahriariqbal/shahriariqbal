@@ -82,7 +82,7 @@ Contributed open source projects -
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/mnemosyne-oss/mnemosyne"><img width="100%" src="assets/open-source-logo-demo-sharp/mnemosyne.png" alt="Project card: Mnemosyne" /></a>
-<p align="center"><strong><a href="https://github.com/mnemosyne-oss/mnemosyne/pull/1221">PR #1221 ↗</a> · <a href="https://github.com/mnemosyne-oss/mnemosyne/pull/1243">PR #1243 ↗</a></strong><br/><sub>Merged: lexical recall optimization · remote-summary fact preservation</sub></p>
+<p align="center"><strong><a href="https://github.com/mnemosyne-oss/mnemosyne/pull/1221">PR #1221 ↗</a> · <a href="https://github.com/mnemosyne-oss/mnemosyne/pull/1243">PR #1243 ↗</a></strong></p>
 </td>
 </tr>
 <tr>
