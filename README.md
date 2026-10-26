@@ -84,11 +84,30 @@
 
 ## 🌍 Open Source
 
-<div align="center">
-  <a href="https://github.com/conorbronsdon/avoid-ai-writing/pull/162"><img src="https://img.shields.io/badge/avoid--ai--writing-PR%20%23162%20merged-2ea44f?style=flat-square&logo=github&logoColor=white" alt="avoid-ai-writing PR #162 merged" /></a>
-  <a href="https://github.com/conorbronsdon/avoid-ai-writing/commit/e61e828"><img src="https://img.shields.io/badge/co--author-commit%20e61e828-0969da?style=flat-square&logo=github&logoColor=white" alt="Co-author on commit e61e828" /></a>
-  <a href="https://github.com/mdn/content/pull/45663"><img src="https://img.shields.io/badge/MDN%20Web%20Docs-PR%20%2345663%20merged-2ea44f?style=flat-square&logo=mdnwebdocs&logoColor=white" alt="MDN Web Docs PR #45663 merged" /></a>
-</div>
+Contributed open source projects -
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/stride3d/stride/pull/3577"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=stride3d&amp;repo=stride&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=14" alt="Live repository card: Stride" /></a>
+<p align="center"><strong><a href="https://github.com/stride3d/stride/pull/3577">PR #3577 ↗</a> · <a href="https://github.com/stride3d/stride-community-toolkit/pull/455">Toolkit PR #455 ↗</a></strong></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/mnemosyne-oss/mnemosyne/pull/1221"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=mnemosyne-oss&amp;repo=mnemosyne&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=14" alt="Live repository card: Mnemosyne" /></a>
+<p align="center"><strong><a href="https://github.com/mnemosyne-oss/mnemosyne/pull/1221">PR #1221 ↗</a></strong></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mdn/content/pull/45663"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=mdn&amp;repo=content&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=14" alt="Live repository card: MDN Web Docs content" /></a>
+<p align="center"><strong><a href="https://github.com/mdn/content/pull/45663">PR #45663 ↗</a></strong></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/conorbronsdon/avoid-ai-writing/pull/162"><img width="100%" src="https://github-stats-extended.vercel.app/api/pin/?username=conorbronsdon&amp;repo=avoid-ai-writing&amp;theme=tokyonight&amp;hide_border=true&amp;border_radius=14" alt="Live repository card: avoid-ai-writing" /></a>
+<p align="center"><strong><a href="https://github.com/conorbronsdon/avoid-ai-writing/pull/162">PR #162 ↗</a></strong></p>
+</td>
+</tr>
+</table>
 
 ## 🔬 Research
 
