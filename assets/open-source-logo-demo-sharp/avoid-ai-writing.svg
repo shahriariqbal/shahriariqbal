@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="172" viewBox="0 0 460 172" role="img" aria-label="avoid-ai-writing repository card">
+<title>avoid-ai-writing — upstream project branding</title>
+<rect x="0.5" y="0.5" width="459" height="171" rx="14" fill="#1a1b27" stroke="#30344b"/>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 512 512" x="386" y="20">
+  <ns0:rect width="512" height="512" rx="112" fill="#171717" />
+  <ns0:path d="M128 142h256v44H128zm0 92h176v44H128zm0 92h224v44H128z" fill="#F7F7F5" />
+  <ns0:path d="M352 214l32 32-92 92-50 14 14-50z" fill="#F7F7F5" />
+</ns0:svg>
+<g font-family="DejaVu Sans,Arial,sans-serif">
+<text x="22" y="36" font-size="19" font-weight="700" fill="#7aa2f7">avoid-ai-writing</text>
+<text x="22" y="57" font-size="10" fill="#9aa5ce">conorbronsdon/avoid-ai-writing</text>
+<text x="22" y="88" font-size="12" fill="#c0caf5">Tools for identifying AI writing patterns.</text>
+<text x="22" y="108" font-size="12" fill="#c0caf5">Portable writing skill and detector CLI.</text>
+<path d="M22 127H438" stroke="#30344b"/>
+<circle cx="27" cy="148" r="4" fill="#7aa2f7"/>
+<text x="39" y="152" font-size="11" fill="#9aa5ce">JavaScript</text>
+<text x="225" y="152" font-size="11" fill="#9aa5ce">★ 5,253</text>
+<text x="335" y="152" font-size="11" fill="#9aa5ce">Forks 466</text>
+</g></svg>

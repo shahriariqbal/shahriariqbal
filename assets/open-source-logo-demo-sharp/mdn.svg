@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="172" viewBox="0 0 460 172" role="img" aria-label="MDN Web Docs repository card">
+<title>MDN Web Docs — upstream project branding</title>
+<rect x="0.5" y="0.5" width="459" height="171" rx="14" fill="#1a1b27" stroke="#30344b"/>
+<ns0:svg xmlns:ns0="http://www.w3.org/2000/svg" version="1.1" id="m-logo" x="386" y="20" viewBox="0 0 302 302" xml:space="preserve" width="48" height="48" fill="#ffffff">
+	<ns0:g>
+		<ns0:path d="M120,14.2L35.3,287.8H0.4L85.2,14.2H120z" />
+		<ns0:path d="M150.9,14.2v273.6h-30.8V14.2H150.9z" />
+		<ns0:path d="M270.8,14.2L186,287.8h-34.9l84.8-273.6H270.8z" />
+		<ns0:path d="M301.6,14.2v273.6h-30.8V14.2H301.6z" />
+</ns0:g>
+</ns0:svg>
+<g font-family="DejaVu Sans,Arial,sans-serif">
+<text x="22" y="36" font-size="19" font-weight="700" fill="#7aa2f7">MDN Web Docs</text>
+<text x="22" y="57" font-size="10" fill="#9aa5ce">mdn/content</text>
+<text x="22" y="88" font-size="12" fill="#c0caf5">Documentation for the open web.</text>
+<text x="22" y="108" font-size="12" fill="#c0caf5">HTML, CSS, JavaScript, and Web APIs.</text>
+<path d="M22 127H438" stroke="#30344b"/>
+<circle cx="27" cy="148" r="4" fill="#7aa2f7"/>
+<text x="39" y="152" font-size="11" fill="#9aa5ce">Markdown</text>
+<text x="225" y="152" font-size="11" fill="#9aa5ce">★ 11,093</text>
+<text x="335" y="152" font-size="11" fill="#9aa5ce">Forks 23,274</text>
+</g></svg>

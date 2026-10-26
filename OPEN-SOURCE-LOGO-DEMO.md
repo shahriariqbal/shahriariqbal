@@ -33,3 +33,37 @@ MDN: official upstream mark, https://github.com/mdn/yari/blob/main/client/src/as
 avoid-ai-writing: upstream logo, https://github.com/conorbronsdon/avoid-ai-writing/blob/main/assets/logo-dark.svg
 Stats fetched from the public repository API during generation; project-wide, not personal contribution counts. Branding does not imply endorsement.
 -->
+
+
+---
+
+### Higher-resolution version
+
+## 🌍 Open Source
+
+Contributed open source projects -
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/stride3d/stride"><img width="100%" src="assets/open-source-logo-demo-sharp/stride.png" alt="Project card: Stride" /></a>
+<p align="center"><strong><a href="https://github.com/stride3d/stride/pull/3577">PR #3577 ↗</a> · <a href="https://github.com/stride3d/stride-community-toolkit/pull/455">Toolkit PR #455 ↗</a></strong></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/mnemosyne-oss/mnemosyne"><img width="100%" src="assets/open-source-logo-demo-sharp/mnemosyne.png" alt="Project card: Mnemosyne" /></a>
+<p align="center"><strong><a href="https://github.com/mnemosyne-oss/mnemosyne/pull/1221">PR #1221 ↗</a></strong></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/mdn/content"><img width="100%" src="assets/open-source-logo-demo-sharp/mdn.png" alt="Project card: MDN Web Docs content" /></a>
+<p align="center"><strong><a href="https://github.com/mdn/content/pull/45663">PR #45663 ↗</a></strong></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/conorbronsdon/avoid-ai-writing"><img width="100%" src="assets/open-source-logo-demo-sharp/avoid-ai-writing.png" alt="Project card: avoid-ai-writing" /></a>
+<p align="center"><strong><a href="https://github.com/conorbronsdon/avoid-ai-writing/pull/162">PR #162 ↗</a></strong></p>
+</td>
+</tr>
+</table>
+
+<!-- 3x raster rendering (1380x516). Generated snapshot, not auto-refreshed. Original demo above preserved. -->
