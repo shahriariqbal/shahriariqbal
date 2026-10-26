@@ -70,18 +70,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriariqbal&theme=tokyonight" alt="GitHub profile summary" />
-  <br/>
-  <img height="165" src="https://streak-stats.demolab.com?user=shahriariqbal&hide_border=true&theme=tokyonight&locale=en" alt="GitHub streak" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahriariqbal&theme=tokyonight" alt="Top languages by repo" />
-  <br/>
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahriariqbal&theme=tokyonight" alt="Contribution stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahriariqbal&theme=tokyonight" alt="Top languages by commit" />
-</div>
-
 ## 🌍 Open Source
 
 Contributed open source projects -
@@ -108,6 +96,18 @@ Contributed open source projects -
 </td>
 </tr>
 </table>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahriariqbal&theme=tokyonight" alt="GitHub profile summary" />
+  <br/>
+  <img height="165" src="https://streak-stats.demolab.com?user=shahriariqbal&hide_border=true&theme=tokyonight&locale=en" alt="GitHub streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahriariqbal&theme=tokyonight" alt="Top languages by repo" />
+  <br/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahriariqbal&theme=tokyonight" alt="Contribution stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahriariqbal&theme=tokyonight" alt="Top languages by commit" />
+</div>
 
 ## 🔬 Research
 
